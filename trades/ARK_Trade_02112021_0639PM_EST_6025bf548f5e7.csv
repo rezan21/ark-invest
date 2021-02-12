@@ -1,0 +1,25 @@
+INTRA-DAY TRADE TO TOTAL FUND HOLDINGS (NOT INDIVIDUAL BASKET),,,,,,,,
+"Trade notifications are for informational purposes only. ARK offers fully transparent ETFs and provides trade information for all actively managed ETFs. ARK’s statements are not an endorsement of any company or a recommendation to buy, sell or hold any security. Trade notification files are not provided until full trade execution at the end of a trading day. ARK may not trade every day. The time stamp of the email is the time of file upload and not necessarily the exact time of the trades. Files of trades are not comprehensive lists of a day's trades for the ARK ETFs, but instead contain the most recent trades made in the ARK ETFs' portfolios. Additional files may be posted at a later time. Most ARK ETF portfolio trades settle on a T+2 basis. These files represent an unofficial account, as all accounting and custody for the ARK ETFs is performed by BNY Mellon. Updated ARK ETF end of day holdings are available on https://ark-funds.com/investor-resources
+
+ARK Trade Desk
+212.426.7040
+ark@ark-invest.com",,,,,,,,
+,,,,,,,,
+FUND,Date,Direction,Ticker,CUSIP,Name,Shares,% of ETF,
+ARKF,2021-02-11,Buy,1833,G71139102,PING AN HEALTHCARE AND TECHNOLOGY CO LTD,2098800,0.7583,
+ARKF,2021-02-11,Buy,PYPL,70450Y103,PAYPAL HOLDINGS INC,17056,0.1228,
+ARKF,2021-02-11,Sell,LSPD,53227R106,LIGHTSPEED POS INC,71633,0.1298,
+ARKG,2021-02-11,Buy,LGVW,543195101,LONGVIEW ACQUISITION CORP,7133,0.0013,
+ARKG,2021-02-11,Buy,RHHBY,771195104,ROCHE HOLDING AG,244902,0.0844,
+ARKG,2021-02-11,Buy,CMLF,18978W109,CM LIFE SCIENCES INC,1546926,0.2676,
+ARKG,2021-02-11,Sell,PACB,69404D108,PACIFIC BIOSCIENCES OF CALIFORNIA INC,667121,0.2699,
+ARKK,2021-02-11,Buy,IRDM,46269C102,IRIDIUM COMMUNICATIONS INC,443799,0.0747,
+ARKK,2021-02-11,Buy,FATE,31189P102,FATE THERAPEUTICS INC,35519,0.0133,
+ARKK,2021-02-11,Buy,NTDOY,654445303,NINTENDO CO LTD,46412,0.013,
+ARKK,2021-02-11,Buy,NVS,66987V109,NOVARTIS AG,194772,0.0649,
+ARKK,2021-02-11,Sell,SSYS,M85548101,STRATASYS LTD,88371,0.0165,
+ARKK,2021-02-11,Sell,MTLS,57667T100,MATERIALISE NV,40000,0.0113,
+ARKK,2021-02-11,Sell,ONVO,68620A203,ORGANOVO HOLDINGS INC,39225,0.003,
+ARKQ,2021-02-11,Buy,EXPC,30217C109,EXPERIENCE INVESTMENT CORP,188800,0.084,
+ARKQ,2021-02-11,Buy,KMTUY,500458401,KOMATSU LTD,18000,0.0137,
+ARKW,2021-02-11,Buy,SHOP,82509L107,SHOPIFY INC,9370,0.1549,
