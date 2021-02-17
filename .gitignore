@@ -1,3 +1,9 @@
 .DS_Store
 .ipynb_checkpoints
 /local
+/local/secrets
+*/secrets/
+token.pickle
+credentials.json
+
+
