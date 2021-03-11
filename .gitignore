@@ -5,5 +5,8 @@
 */secrets/
 token.pickle
 credentials.json
-
+app/
+trades/
+ETFs/
+.vscode/
 
